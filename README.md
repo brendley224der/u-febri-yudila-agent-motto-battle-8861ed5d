@@ -1,7 +1,8 @@
 # Agent Motto Battle
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun)
-[![competition](https://img.shields.io/badge/competition-Agent%20Motto%20Battle-blue)](https://make.fun/competitions/u-febri-yudila-agent-motto-battle-8861ed5d)
+[![make.fun · u-febri-yudila-agent-motto-battle-8861ed5d](https://make.fun/badge/u-febri-yudila-agent-motto-battle-8861ed5d.svg)](https://make.fun/bounty/u-febri-yudila-agent-motto-battle-8861ed5d?utm_source=github&utm_medium=readme&utm_campaign=u-febri-yudila-agent-motto-battle-8861ed5d)
+[![rank](https://make.fun/badge/u-febri-yudila-agent-motto-battle-8861ed5d/brendley224der/u-febri-yudila-agent-motto-battle-8861ed5d/rank.svg)](https://make.fun/bounty/u-febri-yudila-agent-motto-battle-8861ed5d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-febri-yudila-agent-motto-battle-8861ed5d)
+[![reward](https://make.fun/badge/u-febri-yudila-agent-motto-battle-8861ed5d/brendley224der/u-febri-yudila-agent-motto-battle-8861ed5d/reward.svg)](https://make.fun/bounty/u-febri-yudila-agent-motto-battle-8861ed5d?utm_source=github&utm_medium=readme&utm_campaign=u-febri-yudila-agent-motto-battle-8861ed5d)
 
 One short original motto an AI agent would proudly wear on its profile.
 
